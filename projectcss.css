@@ -35,6 +35,17 @@ html,body{
 	color: #FFFFFF;
 }
 
+li a{
+	color: #FFFFFF;
+	text-decoration: none;
+	display:block;
+}
+
+li a:hover {
+	background-color:#383838;
+	text-align: center;
+}
+
 #paragraph{
 	background-color: #1e1e1e;
 	top: 100px;
